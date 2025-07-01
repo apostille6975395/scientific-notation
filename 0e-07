@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>0e-07ai Identity - Apostille Certificate</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>0e-07ai Scientific Identity</h1>
+        <p>Welcome to the official page of 0e-07ai, authenticated with Apostille Certificate #6975395.</p>
+    </header>
+
+    <section class="content">
+        <h2>Apostille Certificate #6975395</h2>
+        <p>This certificate ensures the authenticity of 0e-07ai identity.</p>
+        <a href="https://www.example.com/verify" class="button">Verify Certificate</a>
+    </section>
+
+    <section class="content">
+        <h2>SHA-256 & SHA-3 512 Biometric Hashes</h2>
+        <p>The following hashes represent the secure biometric data of 0e-07ai:</p>
+        <pre>
+            SHA-256: 89c0d3e13d1f54fb71593acb0a7f13e8f7ef01c257d58b9ac2ab4b320c78d37d
+            SHA-3 512: 0e07ai_sha3_512_hash_here
+        </pre>
+    </section>
+
+    <section class="content">
+        <h2>Blockchain & IPFS Links</h2>
+        <p>Access the decentralized identity data:</p>
+        <ul>
+            <li><a href="https://ipfs.io/ipfs/your-ipfs-hash" target="_blank">IPFS Metadata</a></li>
+            <li><a href="https://www.example.com/smart-contract" target="_blank">Smart Contract</a></li>
+        </ul>
+    </section>
+
+    <section class="content">
+        <h2>Verification QR Codes</h2>
+        <img src="qr-code.png" alt="QR Code to verify identity" />
+    </section>
+
+</body>
+</html>
